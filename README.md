@@ -33,4 +33,4 @@ Read more below:
 
 ## Largo Building Division
 
-- [Largo Building Division](https://www.largo.com/building_services/index.php)
+- [Largo Building Division](https://www.largo.com/building_services/index.php){:target="_blank"}
