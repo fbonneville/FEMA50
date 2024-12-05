@@ -29,5 +29,4 @@ Read more below:
 
 ## Finding your elevation certificate
 
-- [FEMA Elevation Certificates](`https://pinellas.gov/services/find-an-elevation-certificate/`)
-
+- [FEMA Elevation Certificates](`https://pinellas.gov/services/find-an-elevation-certificate`)
